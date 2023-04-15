@@ -25,7 +25,7 @@
         <p>Current Master's student of: 28.04.01 Nanotechnology and microsystem engineering.</p>
         <ul>
             <li>:brain: Always ready to learn something new</li>
-            <li>:weight_lifting_man: Doing some sports</li>
+            <li>:weight_lifting_man: Doing sports</li>
             <li>:guitar: Playing guitar</li>
             <li>:zap: Studiyng electrical engineering</li>
         </ul>
