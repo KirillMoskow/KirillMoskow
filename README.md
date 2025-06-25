@@ -10,12 +10,6 @@
     <div align='center'>
         <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
         <h1>God bless my sh!Ʇ code</h1>
-        <a href="https://vk.com/kirillmoskow">
-            <img src="https://img.shields.io/badge/VK-informational?logo=vk&logoColor=white"/>
-        </a>
-        <a href="https://t.me/Kirill_Moskow">
-            <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/>
-        </a>
     </div>
     <h1></h1>
     <div>
