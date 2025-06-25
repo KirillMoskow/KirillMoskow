@@ -20,7 +20,6 @@
     <h1></h1>
     <div>
         <p>:man_technologist: <b>*About Me*</b> </p>
-        <p>I aspire to be a frontend developer and in the future to be a full-stack</p>
         <p>My education: bachelor's degree in 28.03.01 Nanotechnology and microsystem engineering bachelor.</p>
         <p>Current Master's student of: 28.04.01 Nanotechnology and microsystem engineering.</p>
         <ul>
@@ -29,14 +28,6 @@
             <li>:guitar: Playing guitar</li>
             <li>:zap: Studiyng electrical engineering</li>
         </ul>
-    </div>
-    <h1></h1>
-    <div>
-        <b>:hammer_and_wrench: Languages and Tools :</b></br>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"                     height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
     </div>
 </body>
 </html>
